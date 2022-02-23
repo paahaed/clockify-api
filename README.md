@@ -35,7 +35,7 @@ $client = $builder->createClientV1('your-clockify-api-key');
 $workspaces = $client->get('workspaces');
 ```
 
-### Use the decicated API client
+### Use the dedicated API client
 
 ```php
 require __DIR__.'/vendor/autoload.php';
